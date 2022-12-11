@@ -7,7 +7,7 @@ requirements = ["disnake==2.7.0"]
 
 setup(
     name="discocrash.py",
-    version="0.0.4",
+    version="0.0.5",
     author="JanekDeveloper",
     author_email="ivanbogynsky@gmail.com",
     description="Module for creating discord crash bots",
