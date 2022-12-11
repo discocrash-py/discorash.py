@@ -7,7 +7,7 @@ import asyncio
 
 
 intents = discord.Intents.all()
-bot = commands.Bot(command_prefix="cr!", intents=intents)
+bot = commands.Bot(command_prefix="your prefix", intents=intents)
 bot.remove_command('help')
 token = "your token"
 
