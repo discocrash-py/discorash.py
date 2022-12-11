@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 with open("README.md", "r") as readme_file:
     readme = readme_file.read()
 
-requirements = ["discnake==2.7.0"]
+requirements = ["disnake==2.7.0"]
 
 setup(
     name="discocrash.py",
