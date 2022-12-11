@@ -1,5 +1,5 @@
 import disnake
-from discocrash import crashfuncs
+from discocrash import crash
 from disnake.ext import commands, tasks
 import asyncio
 
