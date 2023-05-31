@@ -3,11 +3,11 @@ from setuptools import setup, find_packages
 with open("README.md", "r") as readme_file:
     readme = readme_file.read()
 
-requirements = ["disnake==1.7.3", "requests>=2"]
+requirements = ["discord==1.7.3", "requests>=2"]
 
 setup(
     name="discocrash.py",
-    version="0.1.0",
+    version="0.1.1",
     author="JanekDeveloper",
     author_email="ivanbogynsky@gmail.com",
     description="Module for creating discord crash bots",
